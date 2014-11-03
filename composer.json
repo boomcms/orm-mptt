@@ -1,0 +1,12 @@
+{
+    "name": "boomcms/orm-mptt",
+    "require": {
+        "kohana/orm": "3.3.*"
+    },
+    "authors": [
+        {
+            "name": "Rob Taylor",
+            "email": "rob@uxblondon.com"
+        }
+    ]
+}
